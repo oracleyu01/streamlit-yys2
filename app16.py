@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
-import numpy as np
+#import numpy as np
 
 
 money = pd.read_csv("money_data7.csv")
